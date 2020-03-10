@@ -49,5 +49,3 @@ Sample Output:
 543
 87
 `
-
-# RESOLUTION BY GLAUTON SANTOS
